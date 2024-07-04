@@ -1,4 +1,4 @@
-Welcome to the first GitHub commit. I don't know what I am doing.
+Welcome to my first GitHub commit. I don't know what I am doing at the moment.
 
 Git
 
