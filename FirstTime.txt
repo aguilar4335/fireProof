@@ -1,5 +1,11 @@
 Welcome to my first GitHub commit. I don't know what I am doing at the moment.
 
+Lessons to learn:
+
 Git
 
 GitHub
+
+Javascript
+
+Python
