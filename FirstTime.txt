@@ -6,6 +6,4 @@ Git
 
 GitHub
 
-Javascript
-
 Python
