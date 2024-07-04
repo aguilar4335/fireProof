@@ -6,6 +6,8 @@ Git
 
 GitHub
 
-Javascript
-
 Python
+
+Done my changes
+
+Thank You!
